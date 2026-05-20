@@ -13,8 +13,10 @@ function main() {
 
 
     }
-    matriz.splice(1, 1);  
+    matriz.splice(1, 1);  //eliminas de toda la matriz lo q tenes en posicion 1 (fila eliminada)
+    // matriz[1].splice(1,1,"hola");  matriz en fila 1, posicion 1 eliminas y agregas hola dentro de la fila
     console.log(matriz);
+    
 }
 
 main();

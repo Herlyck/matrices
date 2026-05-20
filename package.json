@@ -1,8 +1,8 @@
 {
-  "name": "matrices",
+  "name": "programacion",
   "version": "1.0.0",
   "description": "",
-  "main": "matriz1.js",
+  "main": "matriz.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
