@@ -22,7 +22,5 @@ function main() {
     console.log(TAREAS);
 
 
-
-
 }
 main();

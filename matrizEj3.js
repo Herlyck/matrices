@@ -11,7 +11,7 @@ function main() {
     console.log("***Mostrando Tareas del dia " + DIAS[dia] + "***");
     for (let i = 0; i < DIAS.length; i++) {
        
-        console.log("Seleccione el dia a Modificar: 0 a 7");
+        console.log("Seleccione el dia a Modificar: 0 a 6");
         dia = Number(leer());
         console.log(TAREAS[dia]);
 
