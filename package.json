@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herlyck/matrices.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Herlyck/matrices/issues"
+  },
+  "homepage": "https://github.com/Herlyck/matrices#readme"
 }
