@@ -26,7 +26,7 @@ function main(params) {
     console.log("Consulta asistencia en Hogwarts\ningresa nombre del alumno:");
     nombreEstudiante = leer();
 
-    posEstudiante = ESTUDIANTES.indexOf(nombreEstudiante);
+    posEstudiante = ESTUDIANTES.indexOf(nombreEstudiante);  //index puede dar -1 si no encuentra algo
 
     if (posEstudiante === ESTUDIANTE_INEXISTENTE) {
         console.log("Alumno " +nombreEstudiante+ " no encontrado");
